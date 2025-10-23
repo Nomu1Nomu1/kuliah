@@ -134,9 +134,6 @@ public class Latihan1 {
         int pilihan;
 
         do {
-            System.out.println("╔════════════════════════════════════════╗");
-            System.out.println("║      MENU ALGORITMA DASAR JAVA         ║");
-            System.out.println("╚════════════════════════════════════════╝");
             System.out.println("1. Menampilkan angka diantara 2 nilai");
             System.out.println("2. Mencetak karakter sampai 'x' atau 'X'");
             System.out.println("3. Penjumlahan deret N bilangan asli");
